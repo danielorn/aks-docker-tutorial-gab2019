@@ -9,14 +9,14 @@ With containers this is about to change, as one of the many benefits of a contai
 ## Part 1 - What is a Linux Container and what is it good for
 This part uncovers what a Linux container really is, how it works and a short walkthrough of useful commands
 
-[Link to Part 1 instructions](introduction/README.md)
+[Link to Part 1 instructions](introduction/)
 
 ## Part 2 - Containerizing an application
 Part 2 covers how to containerize a simple web application and how configuration can be externalized using environment variables.
 
-[Link to Part 2 instructions](app/README.md)
+[Link to Part 2 instructions](app/)
 
 ## Part 3 - Deploying the container to Azure using AKS and ACR
 Finally, we investigate what container orchestration is and how Azure Kubernetes Service (AKS) can be configured to deploy, monitor and scale our application during runtime.
 
-[Link to Part 3 instructions](k8s/README.md)
+[Link to Part 3 instructions](k8s/)

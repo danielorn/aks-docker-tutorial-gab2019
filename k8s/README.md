@@ -104,7 +104,7 @@ web-6747cfd444-bmrgj   1/1     Running   0          15s     10.244.0.13   aks-no
 
 By visiting the application in a browser we can see that the IP the application reports will be different for each request as the service loadbalances across all available pods (be sure to disable any browser caching).
 
-## Scale the application downv
+## Scale the application down
 
 ```
 $ kubectl scale --replicas=1 deployments/web
