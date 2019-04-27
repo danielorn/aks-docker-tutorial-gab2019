@@ -17,9 +17,11 @@ spec:
     spec:
       containers:
       - name: web
-        image: dev24cr.azurecr.io/myapp:latest
+        image: dev24cr.azurecr.io/web:latest
         env:
         - name: NAME
           value: "My Demo Application"
+        - name: Dbstring
+          value: {{.Values.dbstring}}
         ports:
         - containerPort: 80
