@@ -4,7 +4,7 @@ Many are the developers that have experienced the dreaded _”It works on my com
 
 With containers this is about to change, as one of the many benefits of a container is that it packages most of the runtime environment instead of just the application for distribution.
 
-[Link to slide deck](http://bit.ly/aksdocker)
+[Link to slide deck](http://bit.ly/gab19aksslides)
 
 ## Part 1 - What is a Linux Container and what is it good for
 This part uncovers what a Linux container really is, how it works and a short walkthrough of useful commands
